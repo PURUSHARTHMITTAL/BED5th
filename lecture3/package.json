@@ -1,0 +1,25 @@
+{
+  "name": "@purusharthmittal/sumpackage",
+  "version": "1.0.2",
+  "description": "\"this package do nothing\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PURUSHARTHMITTAL/BED5th.git"
+  },
+  "author": "Purusharth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PURUSHARTHMITTAL/BED5th/issues"
+  },
+  "homepage": "https://github.com/PURUSHARTHMITTAL/BED5th#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "hbs": "^4.2.0"
+  }
+}
